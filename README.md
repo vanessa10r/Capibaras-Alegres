@@ -13,7 +13,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 ## Miembros
 
 ### Nicol Ximena Orozco Caballero
-
+<br>
 ![Imagen de Nicol Ximena](https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8)
 
 **Presentación:**
@@ -21,7 +21,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 ---
 
 ### Dara Vanessa Alvarado Rodríguez
-
+<br>
 ![Imagen de Dara Vanessa](https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80)
 
 **Presentación:**
@@ -29,7 +29,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 ---
 
 ### Eduardo Nicolás Supelano Garrido
-
+<br>
 ![Imagen de Eduardo Nicolás](https://github.com/vanessa10r/Capibaras-Alegres/raw/main/Eduardo.supelano/foto%20de%20perfil.png?raw=true)
 
 **Presentación:**  
