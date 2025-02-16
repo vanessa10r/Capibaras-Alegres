@@ -16,7 +16,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 <br>
 
 ### ![Imagen de Nicol Ximena]
-<img src="https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8" alt="Imagen de Dara Vanessa" style="width:200px; height:auto;">
+<img src="https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8" alt="Nicol Ximena" style="width:200px; height:auto;">
 **Presentación:**
 
 ---
@@ -24,7 +24,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 ### Dara Vanessa Alvarado Rodríguez
 <br>
 
-### ![Imagen de Dara Vanessa](https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80)
+### ![Imagen de Dara Vanessa]
 <img src="https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80" alt="Imagen de Dara Vanessa" style="width:200px; height:auto;">
 
 **Presentación:**
