@@ -1,7 +1,5 @@
 # Equipo Capibaras Alegres
 
-
-
 ---
 
 ## Presentación del equipo
