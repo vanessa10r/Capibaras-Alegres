@@ -8,6 +8,8 @@ asegurando que sus movimientos sean fluidos y realistas.
 **📍 Ubicación:** [Fusagasugá, Cundinamarca]
 
 **👤 Perfil:** Mi nombre es Dara Alvarado, naci en Fusagasugá.
+![WhatsApp Image 2025-01-09 at 12 00 26 PM](https://github.com/user-attachments/assets/3230b97b-f7e2-4a83-94ab-1db039a7cf5c)
+
 
 **🍕 Comida favorita:** Pizza  
 Me encanta la pizza porque es deliciosa y tiene muchas combinaciones de sabores.  
