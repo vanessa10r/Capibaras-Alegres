@@ -5,4 +5,4 @@ Equipo Capibaras Alegres
 Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojuegos. Cada integrante ha seleccionado un rol dentro de la industria y compartimos aquí nuestra presentación, junto con una fotografía y nuestra comida favorita. 
 
 ![image](https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8)
-![image](![WhatsApp Image 2025-01-09 at 12 00 26 PM](https://github.com/user-attachments/assets/3663c252-e8fa-424b-bdec-4755b9dbf42a)
+![image](https://github.com/user-attachments/assets/3663c252-e8fa-424b-bdec-4755b9dbf42a)
