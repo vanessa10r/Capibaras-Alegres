@@ -1,21 +1,39 @@
-# Capibaras-Alegres
-Equipo Capibaras Alegres  
+# Capibaras Alegres
 
-## Presentación del equipo  
-Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojuegos. Cada integrante ha seleccionado un rol dentro de la industria y compartimos aquí nuestra presentación, junto con una fotografía y nuestra comida favorita. 
+*Equipo Capibaras Alegres*
+
+---
+
+## Presentación del equipo
+
+Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojuegos. Cada integrante ha seleccionado un rol dentro de la industria, y en este espacio compartimos nuestra presentación, acompañada de una fotografía y nuestra comida favorita.
+
+---
 
 ## Miembros
 
-**NICOL XIMENA OROZCO CABALLERO**
-![image](https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8)
-**Presentacion:**
+### Nicol Ximena Orozco Caballero
+<br>
 
-**DARA VANESSA ALVARADO RODRIGUEZ**
-**Presentacion:**
-![image](https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80)
+![Imagen de Nicol Ximena](https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8)
 
+**Presentación:**
 
-**EDUARDO NICOLAS SUPELANO GARRIDO**
-![image](https://github.com/vanessa10r/Capibaras-Alegres/raw/main/Eduardo.supelano/foto%20de%20perfil.png?raw=true)
-**Presentacion:**
-Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Multimedia en la UNAD, y actualmente se empleado en el sector tecnológico como IT Storage Administrator / Storage Engineer en NetApp
+---
+
+### Dara Vanessa Alvarado Rodríguez
+<br>
+
+### ![Imagen de Dara Vanessa](https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80)
+
+**Presentación:**
+
+---
+
+### Eduardo Nicolás Supelano Garrido
+<br>
+
+![Imagen de Eduardo Nicolás](https://github.com/vanessa10r/Capibaras-Alegres/raw/main/Eduardo.supelano/foto%20de%20perfil.png?raw=true)
+
+**Presentación:**  
+Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Multimedia en la UNAD, y actualmente empleado en el sector tecnológico como IT Storage Administrator / Storage Engineer en NetApp.
