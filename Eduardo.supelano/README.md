@@ -1,4 +1,4 @@
-## ![Foto de Eduardo](vanessa10r/Capibaras-Alegres/Eduardo.supelano/foto de perfil.png)  
+## ![Foto de Eduardo](https://github.com/vanessa10r/Capibaras-Alegres/blob/main/Eduardo.supelano/foto%20de%20perfil.png?raw=true)  
 ### Eduardo Supelano  
 **Rol:** Diseñador Narrativo, Ingeniero Multimedia  
 **Ubicación:** Bogotá, Colombia  
