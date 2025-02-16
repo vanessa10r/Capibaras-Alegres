@@ -1,6 +1,6 @@
-# Capibaras Alegres
+# Equipo Capibaras Alegres
 
-*Equipo Capibaras Alegres*
+
 
 ---
 
