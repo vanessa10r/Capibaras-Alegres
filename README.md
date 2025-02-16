@@ -38,3 +38,23 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
   
 **Presentación:**  
 Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Multimedia en la UNAD, y actualmente empleado en el sector tecnológico como IT Storage Administrator / Storage Engineer en NetApp.
+
+
+---
+### {{Nombre Completo}}
+<br>
+
+<img src="{{URL de la Imagen}}" alt="Imagen de {{Nombre Completo}}" style="width:200px; height:auto;">
+  
+**Presentación:**  
+{{Texto de Presentación}}
+
+
+---
+### {{Nombre Completo}}
+<br>
+
+<img src="{{URL de la Imagen}}" alt="Imagen de {{Nombre Completo}}" style="width:200px; height:auto;">
+  
+**Presentación:**  
+{{Texto de Presentación}}
