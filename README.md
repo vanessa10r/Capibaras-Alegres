@@ -27,7 +27,8 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 <img src="https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80" alt="Imagen de Dara Vanessa" style="width:200px; height:auto;">
 
 **Presentación:**
-Estudiante de Ingenieria Multimedía en la UNAD, trabajo desde casa haciendo videos los edito y como secretaria.
+
+---
 
 ### Eduardo Nicolás Supelano Garrido
 <br>
@@ -40,13 +41,12 @@ Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Mult
 
 
 ---
-### {{Nombre Completo}}
+### Juan Sebastian Diaz Sanabria
 <br>
-
-<img src="{{URL de la Imagen}}" alt="Imagen de {{Nombre Completo}}" style="width:200px; height:auto;">
+<img src="https://github.com/user-attachments/assets/3ada9c20-b9e7-4b3a-8550-9ee1fe8ff327" alt="Imagen de Juan Diaz" style="width:200px; height:auto;">
   
 **Presentación:**  
-{{Texto de Presentación}}
+Mi nombre es Juan Sebastian Diaz Sanabria, soy de Soacha, San Mateo, estudio produccion multimedia en el SENA de forma paralela con esta carrera
 
 
 ---
