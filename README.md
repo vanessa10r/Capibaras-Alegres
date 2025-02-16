@@ -27,8 +27,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 <img src="https://github.com/user-attachments/assets/d8c63c99-f12d-4569-a00e-ab4330a83c80" alt="Imagen de Dara Vanessa" style="width:200px; height:auto;">
 
 **Presentación:**
-
----
+Estudiante de Ingenieria Multimedía en la UNAD, trabajo desde casa haciendo videos los edito y como secretaria.
 
 ### Eduardo Nicolás Supelano Garrido
 <br>
