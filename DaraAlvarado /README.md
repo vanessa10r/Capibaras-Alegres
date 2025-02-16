@@ -1,4 +1,4 @@
-# Información de Dara Alvarado 🚀
+# Información de Dara Alvarado 
 
 **🎮 Rol en el equipo:** Animador de Videojuegos  
 El rol de desarrollo de Videojuegos que me llamó la atención es de animador.  
