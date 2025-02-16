@@ -30,8 +30,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 
 ### Eduardo Nicolás Supelano Garrido
 <br>
-![Imagen de Eduardo Nicolás]<img src="https://github.com/vanessa10r/Capibaras-Alegres/raw/main/Eduardo.supelano/foto%20de%20perfil.png?raw=true" alt="Imagen de Eduardo" style="width:200px; height:auto;">
-
+![Imagen de Eduardo Nicolás](https://github.com/vanessa10r/Capibaras-Alegres/raw/main/Eduardo.supelano/foto%20de%20perfil.png?raw=true)
 
 **Presentación:**  
 Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Multimedia en la UNAD, y actualmente empleado en el sector tecnológico como IT Storage Administrator / Storage Engineer en NetApp.
