@@ -7,7 +7,7 @@ El rol de videojuegos que me llamo la atención fue el "Artista del Medio Ambien
 
 **👤Perfil:** Mi nombre es Nicol Orozco, naci en fusagasugá, estudio ingeniería Multimedia. 
 
-![1](https://github.com/user-attachments/assets/9d981eec-f35b-475e-acde-b85436fad1f2)
+<img src="https://github.com/user-attachments/assets/6a5fd467-f450-42ca-8638-f095a5f7b5f8" alt="Nicol Ximena" style="width:200px; height:auto;">
 
 
 **🥭Comida favorita:** Mango con sal, limón y pimienta
