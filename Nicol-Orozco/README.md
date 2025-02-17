@@ -12,4 +12,5 @@ El rol de videojuegos que me llamo la atención fue el "Artista del Medio Ambien
 
 **🥭Comida favorita:** Mango con sal, limón y pimienta
 Me gusta el mango preparado asi por la gran combinación de estos 3 productos.
+
 ![images](https://github.com/user-attachments/assets/2837733d-8932-46d3-8711-b82017ccd4ca)
