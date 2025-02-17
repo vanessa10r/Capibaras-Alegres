@@ -29,6 +29,8 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 **Presentación:**
 Estudiante de Ingenieria Multimedia en la UNAD, actualmente trabajo editando videos y editando fotos 
 
+
+---
 ### Eduardo Nicolás Supelano Garrido
 <br>
 
