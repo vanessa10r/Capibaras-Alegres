@@ -18,7 +18,7 @@ Somos **Capibaras Alegres**, un equipo apasionado por el desarrollo de videojueg
 
 **Presentación:**
 
----
+Estudiante de Ingeniería multimedia en la UNAD, actualmete soy monitora en la UNAD.
 
 ### Dara Vanessa Alvarado Rodríguez
 <br>
