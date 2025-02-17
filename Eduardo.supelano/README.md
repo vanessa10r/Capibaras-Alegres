@@ -10,6 +10,8 @@
 ---
 **Perfil:**  
 Estudiante de Producción de Cine y Televisión en la UNAL y de Ingeniería Multimedia en la UNAD, y actualmente se empleado en el sector tecnológico como IT Storage Administrator / Storage Engineer en NetApp.
+<br>
+
 **Comida favorita:** Pasta a la boloñesa, porque es lo único que un chef italiano me dijo que me quedaba bien.
 <br>
 
